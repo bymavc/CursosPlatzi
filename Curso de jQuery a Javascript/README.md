@@ -1,6 +1,6 @@
 # Curso de jQuery a JavaScript<!-- omit in toc -->
 
-## Tabla de Contenido<!--omit in tox -->
+## Tabla de Contenido<!--omit in toc -->
 - [Tabla de Contenido](#tabla-de-contenido)
 - [Introduccion](#introduccion)
 - [Problema](#problema)
